@@ -13,7 +13,7 @@ AtliQ Hardware is a manufacturing firm that produces computer hardwares, accesso
 
 #### [a) Customer performance report](https://github.com/akashkr1303/Excel_Sales_Finance_Reports/blob/main/Customer%20Performance%20Report.pdf) - Analyzes sales across fiscal years and variance between 2020 and 2021 Net Sales.
 #### [b) Market vs target performance](https://github.com/akashkr1303/Excel_Sales_Finance_Reports/blob/main/Market%20Performance%20vs%20Target.pdf) - It evaluates sales against target numbers based on different countries.
-#### [c) Top & Bottom 5 products](https://github.com/akashkr1303/Excel_Sales_Finance_Reports/blob/main/Top%20%26%20Bottom%205%20Products.pdf) - It analyzes top and bottom most products of the company.
+#### [c) Top & Bottom 5 products](https://github.com/akashkr1303/Excel_Sales_Finance_Reports/blob/main/Top%20%26%20Bottom%205%20Products.pdf) - It analyzes top and bottom most products of the company by quantity sold.
 #### [d) Division level report](https://github.com/akashkr1303/Excel_Sales_Finance_Reports/blob/main/Division%20Level%20Report.pdf) - Analyzes sales across three divisions of the company.
 #### [e) New products](https://github.com/akashkr1303/Excel_Sales_Finance_Reports/blob/main/New%20Products-2021.pdf) - Segregates new products that were launched in 2021 FY and its sales performance.
 
