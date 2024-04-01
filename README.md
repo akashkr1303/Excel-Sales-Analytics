@@ -1,12 +1,11 @@
 # Customer Performance Report | P & L Report
 ## Project Objective - 
-To build a Customer Performance report using Microsoft Excel which facilitates ascertaining the sales performance of different categories of products and the financial position of the business across various regions.
+To build multiple reports by performing data analysis on the historical data of AtliQ hardware (an imaginary firm) 
 
-## Project Overview - 
-AtliQ Hardware is a manufacturing firm that produces computer hardware, accessories, storage & networking devices and sells its products through various customers like Amazon, Flipkart, Walmart etc. across various regions and also through its direct stores using different modes of channels.  In this project, I focused on analyzing sales and financial data of AtliQ Hardwares using Microsoft Excel to uncover insights and trends that can help make key business decisions.
+## Business Model - 
+AtliQ Hardware is a manufacturing firm that produces computer hardware, accessories, storage & networking devices and sells its products through various customers like Amazon, Flipkart, Walmart and its direct stores across regions using different modes of channels. 
 
-## Project Description -
-
+## Project Description - Extracted the data, and performed ETL (Extract transform load) in Power Query to make it suitable for data analysis needs. Built a star-schema data model using Power Pivot and used DAX to create needed measures. Optimized the report by up to 10% by disabling unrequired data load and ensured data quality by running data validation. The type of analysis can be further categorised into two types:- 
 
 
 ### 1) Sales Analysis: 
@@ -26,21 +25,19 @@ AtliQ Hardware is a manufacturing firm that produces computer hardware, accessor
 #### [c) P&L Markets](https://github.com/akashkr1303/Excel_Sales_Finance_Reports/blob/main/P%26L-Markets.pdf) -  It compares the same set of metrics as mentioned in P&L Year but on a country/market level.
 
 
-## Technical Skills Developed:
+## Tools/Methods used:
 
-#### 1. Performing ETL(Extract Transform Load)
-#### 2. Data Transformation using Power Query
+#### 1. ETL(Extract Transform Load)
+#### 2. Data transformation using Power Query
 #### 3. Data modeling using Power Pivot 
-#### 4. Utilizing DAX to create measures and calculated columns 
-#### 5. Generating reports using Pivot tables 
+#### 4. DAX for creating measures and calculated columns 
+#### 5. Data Summarization using Pivot tables 
+#### 6. Systematic approach for designing a user-centric report
+#### 7. Quantitative analysis and statistics 
 
-## Soft Skills: 
 
-#### 1. Learned systematic approach for designing a user-centric report
-#### 2. Scope and understanding of business analysis
-#### 3. Quantitative analysis and statistics 
 
 
 ## Conclusion:
 
-#### Business analysis is crucial for making data-driven decisions because it helps in understanding business objectives, identifying relevant data sources, and analyzing data to extract meaningful insights. By using business analysis techniques, organizations can effectively interpret data, uncover trends, and make informed decisions that drive growth and success. It also helps in aligning business strategies with data-driven insights, enabling companies to stay competitive in today's dynamic market.
+#### Data analysis is crucial for making data-driven decisions because it helps in understanding business objectives, identifying relevant data sources, and analyzing data to extract meaningful insights. By using  analysis techniques, organizations can effectively interpret data, uncover trends, and make informed decisions that drive growth and success. It also helps in aligning business strategies with data-driven insights, enabling companies to stay competitive in today's dynamic market.
