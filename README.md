@@ -1,14 +1,15 @@
 # Customer Performance Report | P & L Report
-## Project Objective - 
+## Project Objective:
 To build multiple reports by performing data analysis on the historical data of AtliQ Hardware (an imaginary firm). 
 
-## Business Model - 
+## Business Model:
 AtliQ Hardware is a firm that manufactures computer hardware, accessories, storage & networking devices and sells its products through various customers like Amazon, Flipkart, Walmart and its direct stores across regions using different modes of channels. 
 
-## Project Description - Extracted the data, and performed ETL (Extract transform load) in Power Query to make it suitable for data analysis needs. Built a star-schema data model using Power Pivot and used DAX to create needed measures. Optimized the report by up to 10% by disabling unrequired data load and ensured data quality by running data validation. The type of analysis can be further categorised into two types:- 
+## Project Description:
+Extracted the data, and performed ETL (Extract transform load) in Power Query to make it suitable for data analysis needs. Built a star-schema data model using Power Pivot and used DAX to create needed measures. Optimized the report by up to 10% by disabling unrequired data load and ensured data quality by running data validation. The type of analysis can be further categorised into two types:- 
 
 
-### 1) Sales Analysis: 
+### 1) Sales Analysis- 
 
 #### [a) Customer performance report](https://github.com/akashkr1303/Excel_Sales_Finance_Reports/blob/main/Customer%20Performance%20Report.pdf) - Analyzes sales across fiscal years and variance between 2020 and 2021 net sales.
 #### [b) Market vs target performance](https://github.com/akashkr1303/Excel_Sales_Finance_Reports/blob/main/Market%20Performance%20vs%20Target.pdf) - It evaluates sales against target numbers based on different countries.
@@ -18,9 +19,9 @@ AtliQ Hardware is a firm that manufactures computer hardware, accessories, stora
 
 
 
-### Financial Analysis: 
+### 2) Financial Analysis-
 
-#### [a) P&L Year](https://github.com/akashkr1303/Excel_Sales_Finance_Reports/blob/main/P%26L-Year.pdf) - It compares Net sales, COGS, Gross Margin and Gross Margin%  over the last three fiscal years.
+#### [a) P&L Year](https://github.com/akashkr1303/Excel_Sales_Finance_Reports/blob/main/P%26L-Year.pdf) - It compares Net sales, COGS, Gross margin and Gross margin%  over the last three fiscal years.
 #### [b) P&L Month](https://github.com/akashkr1303/Excel_Sales_Finance_Reports/blob/main/P%26L-Month.pdf) - It compares the same set of metrics as mentioned in P&L Year but on a monthly and quarterly level.
 #### [c) P&L Markets](https://github.com/akashkr1303/Excel_Sales_Finance_Reports/blob/main/P%26L-Markets.pdf) -  It compares the same set of metrics as mentioned in P&L Year but on a country/market level.
 
