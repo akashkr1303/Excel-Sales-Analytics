@@ -1,9 +1,9 @@
-# Sales & Financial Analysis Report
+# Customer Performance Report | P & L Report
 ## Project Objective - 
-To build a report using Microsoft excel which facilitates in ascertaining the sales performance of different categories of products and the financial position of the business across various regions.
+To build a Customer Performance report using Microsoft Excel which facilitates ascertaining the sales performance of different categories of products and the financial position of the business across various regions.
 
 ## Project Overview - 
-AtliQ Hardware is a manufacturing firm that produces computer hardwares, accessories, storage & networking devices and sells its products through various customers like Amazon, Flipkart, Walmart etc. across various regions and also through its direct stores using different modes of channels.  In this project, I focused on analyzing sales and financial data of AtliQ Hardwares using Microsoft Excel to uncover insights and trends that can help make key business decisions.
+AtliQ Hardware is a manufacturing firm that produces computer hardware, accessories, storage & networking devices and sells its products through various customers like Amazon, Flipkart, Walmart etc. across various regions and also through its direct stores using different modes of channels.  In this project, I focused on analyzing sales and financial data of AtliQ Hardwares using Microsoft Excel to uncover insights and trends that can help make key business decisions.
 
 ## Project Description -
 
