@@ -1,6 +1,6 @@
 # Customer Performance Report | P & L Report
 ## Project Objective:
-To build multiple reports using Excel by performing data analysis on the historical data of AtliQ Hardware (an imaginary firm) which can enable stakeholers to draw insights and make business decision. 
+To build multiple reports using Excel by performing data analysis on the historical data of AtliQ Hardware (an imaginary firm) which can enable stakeholders to draw insights and make business decisions. 
 
 ## Business Model:
 AtliQ Hardware is a firm that manufactures computer hardware, accessories, storage & networking devices and sells its products through various customers like Amazon, Flipkart, Walmart and its direct stores across regions using different modes of channels. 
